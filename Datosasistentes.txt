@@ -1,0 +1,4 @@
+4;amasado;gato;2014;h;
+2;tamy;gato;1997;m;
+1;david;perro;1996;h;
+3;pan;queso;1994;h;
